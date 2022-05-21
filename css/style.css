@@ -1,0 +1,166 @@
+body {margin: 0px; 
+	background-color: whitesmoke;
+	background: url(../images/palme1.png);
+}
+header {  font-family: 'Fredericka the Great', cursive;
+		color: whitesmoke;
+}
+
+nav ul li {
+	padding: 7px;
+	border-top-left-radius: 8px;
+	border-top-right-radius: 8px;
+	border-bottom-right-radius: 8px;
+	border-bottom-left-radius: 8px;
+	text-transform: uppercase;
+	;
+}
+
+h1 {text-align: center;
+height:15vh;
+padding-top: 20px;
+background: url(../images/final.png);
+margin-bottom: 0px !important;
+
+} 
+
+.active {background-color: darkseagreen;}
+#carousel-inner {width: 390px; 
+	margin-left: 35%;
+	margin-top:25px;
+}
+.carousel-item{padding-left: 5px;
+padding-right: 5px;
+padding-top: 5px;
+background-color: whitesmoke;}
+
+.homelogo { width: 21%;
+			display: inline-block
+
+}
+.testoHome { float: right;
+	font-family: 'Fredericka the Great', cursive;
+	background-color: whitesmoke;
+	padding: 37px;
+	width: 79%;
+	color: darkseagreen;
+}
+#descrizione {font-size: 15px ; 
+				color: black; 
+				font-family: 'PT Serif Caption', serif;
+}
+.icona { height: 20px; float: left; margin-right:10px; 
+}
+#button{margin-left: 39%;
+	margin-top: 2%;
+	margin-bottom:0;
+		font-family: 'PT Serif Caption', serif;
+		background-color: lightblue;}
+#playlistpropsett {margin-top: 20px;
+						width: 30%;
+						transform: translate(50%);
+						font-family: 'PT Serif Caption', serif;
+						display: inline-block;
+}
+#playlisttopdisempre {margin-top: 20px;
+						width: 30%;
+						transform: translate(70%);
+						font-family: 'PT Serif Caption', serif;
+						display: inline-block;
+}
+
+.ytlink {
+	color: darkseagreen;
+}
+.ytlink:hover{
+	color: darkseagreen;
+}
+#footer{
+	position: fixed;
+	bottom: 0;
+	width: 98vw;
+	display: block;
+	background-color: darkseagreen;
+}
+#social{float:right;
+		margin-right:15px;
+		list-style:none;
+		font-size:25px;
+		color:whitesmoke;
+		margin-top: 15px;
+}
+#facebook {margin-left: 10px;
+}
+#tiktok {margin-left: 10px;}
+
+#documentazione{
+				float: left;
+				margin-left:30px;
+				margin-top:30px;
+				font-size:15px;
+				color:whitesmoke;
+
+}
+.inline{display:inline-block
+
+}
+#descrizioneleft {float: left;
+	color: black; 
+	font-family: 'PT Serif Caption', serif;
+	font-size: 15px;
+	background-color: whitesmoke;
+	padding: 28px;
+	width: 30%;
+	display: inline-block;
+	margin-top: 49px;
+}
+#descrizioneright{float: right;
+	color: black; 
+	font-family: 'PT Serif Caption', serif;
+	font-size: 15px;
+	background-color: whitesmoke;
+	padding: 37px;
+	width: 30%;
+	display: inline-block;
+	margin-top: 48px;}
+
+#descrizioneleft2 {float: left;
+	color: black; 
+	font-family: 'PT Serif Caption', serif;
+	font-size: 15px;
+	background-color: whitesmoke;
+	padding: 35px;
+	padding-top: 80px;
+	padding-bottom: 120px;
+	width: 30%;
+	display: inline-block;
+}
+#testo2 {background-color: whitesmoke;
+		padding: 38px;
+		width: 66%;
+		margin-left: 15%;
+		margin-top: 50px;
+		font-family: 'PT Serif Caption', serif
+	}
+#glass{color: darkseagreen;
+font-size: 30px;}
+#glass1{color: darkseagreen;
+font-size: 30px;}
+
+.aboutus{background-color: whitesmoke;
+	padding: 37px;
+	width: 100%;}
+
+#sarabanda{font-family: 'Fredericka the Great', cursive;
+color: darkseagreen;
+}
+
+#aboutsarabanda{font-family: 'PT Serif Caption', serif;
+	color: black;}
+
+#doc{background-color: whitesmoke;
+		padding: 38px;
+		width: 66%;
+		margin-left: 15%;
+		margin-top: 50px;
+		font-family: 'PT Serif Caption', serif}
