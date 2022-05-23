@@ -251,4 +251,11 @@ top: 30vh;}
 		font-size: 25px;
 		line-height: 3rem;
 	}
+#navbarNav{ font-size: 35px; 
+}
+.navbar{min-height: 100px;}
+#footer{min-height: 150px;}
+#documentazione{font-size: 30px;}
+#social{font-size: 50px;
+padding-top: 10px;}
 }
