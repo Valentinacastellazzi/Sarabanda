@@ -138,7 +138,7 @@ h1 {
 }
 
 .inline{
-	display:inline-block: 
+	display:inline-block; 
 }
 
 #descrizioneleft {
@@ -246,6 +246,7 @@ h1 {
 }
 
 #doctit{
+	font-family: 'Fredericka the Great', cursive;
 	color: white;
 }
 
@@ -355,7 +356,7 @@ h1 {
 		min-height: 100px;
 	}
 	#footer {
-		min-height: 150px;
+		min-height: 130px;
 	}
 	#documentazione {
 		font-size: 30px;
